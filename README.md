@@ -113,8 +113,4 @@ Solutions to LeetCode's [SQL 50 Study Plan](https://leetcode.com/studyplan/top-s
 - **Dates** — `DATEDIFF`, `DATE_FORMAT`, date arithmetic
 - **Conditional logic** — `CASE WHEN`, `IFNULL`, `COALESCE`
 
-## Notes
 
-- Queries are written for **MySQL** syntax unless noted otherwise in the file.
-- Where more than one approach is reasonable, the committed query favors readability over micro-optimizing runtime.
-- PRs with alternate approaches (e.g., window-function vs. subquery solutions) are welcome — consider adding them as a second query in the same file with a comment.
