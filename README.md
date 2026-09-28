@@ -1,4 +1,4 @@
-# 🧩 LeetCode SQL Solutions
+# LeetCode SQL Solutions
 
 This repository contains my **SQL solutions to LeetCode problems**, organized by problem difficulty and SQL concepts.
 
@@ -6,7 +6,7 @@ The goal of this repository is to strengthen my **SQL, problem-solving, and data
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 I am using LeetCode to practice SQL problems ranging from beginner to advanced level.
 
@@ -31,7 +31,7 @@ The solutions cover important SQL concepts such as:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 leetcode-sql-solutions/
@@ -55,18 +55,18 @@ leetcode-sql-solutions/
 
 ---
 
-## 📊 Progress
+##  Progress
 
 | Difficulty | Solved         |
 | ---------- | -------------- |
-| 🟢 Easy    | 🔄 In Progress |
-| 🟡 Medium  | 🔄 In Progress |
-| 🔴 Hard    | 🔄 In Progress |
-| **Total**  | 🔄 Updating    |
+|  Easy    |  In Progress |
+|  Medium  |  In Progress |
+|  Hard    |  In Progress |
+| **Total**  |  Updating    |
 
 ---
 
-## 🛠️ SQL Concepts Practiced
+##  SQL Concepts Practiced
 
 ### Basic SQL
 
@@ -111,7 +111,7 @@ leetcode-sql-solutions/
 
 ---
 
-## 📝 Solution Format
+##  Solution Format
 
 Each SQL file contains the solution for one LeetCode problem.
 
@@ -134,7 +134,7 @@ LEFT JOIN Address a
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 Through these problems, I aim to improve:
 
@@ -148,7 +148,7 @@ Through these problems, I aim to improve:
 
 ---
 
-## 📈 My Practice Strategy
+##  My Practice Strategy
 
 I am following this approach for each problem:
 
@@ -164,7 +164,7 @@ I am following this approach for each problem:
 
 ---
 
-## 💼 Why This Repository?
+## Why This Repository?
 
 This repository documents my continuous SQL learning and provides a record of the problems I have solved while preparing for **Data Analyst and Data Science roles**.
 
@@ -172,7 +172,7 @@ It also demonstrates practical experience with SQL concepts commonly used in dat
 
 ---
 
-## 🔗 LeetCode
+##  LeetCode
 
 My solutions are based on problems available on:
 
@@ -180,7 +180,7 @@ My solutions are based on problems available on:
 
 ---
 
-## 🚀 Future Goals
+## Future Goals
 
 * [ ] Complete all Easy SQL problems
 * [ ] Complete Medium SQL problems
@@ -193,7 +193,7 @@ My solutions are based on problems available on:
 
 ---
 
-## 📌 Note
+##  Note
 
 These solutions represent my learning and problem-solving approach. There may be multiple valid ways to solve the same SQL problem.
 
