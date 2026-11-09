@@ -199,6 +199,3 @@ These solutions represent my learning and problem-solving approach. There may be
 
 I may update solutions over time as I learn more efficient SQL techniques.
 
----
-
-⭐ **Learning SQL one problem at a time.**
