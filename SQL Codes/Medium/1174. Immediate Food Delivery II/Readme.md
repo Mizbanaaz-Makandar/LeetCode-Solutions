@@ -9,11 +9,11 @@ Scheduled order: customer_pref_delivery_date > order_date
 First order: the order with the earliest order_date for a given customer (guaranteed unique per customer)
 
 # Table Schema
-Column	                             Type	                    Description
-delivery_id	                        int	Primary key,               unique
-customer_id	                        int                            Customer identifier
-order_date	                        date	                         Date the order was placed
-customer_pref_delivery_date	        date	                         Preferred delivery date (≥ order_date)
+Column	                         |    Type	                   | Description
+delivery_id	                     |   int	Primary key,         |     unique
+customer_id	                     |   int                       |     Customer identifier
+order_date	                     |   date	                     |   Date the order was placed
+customer_pref_delivery_date	     |   date	                     |   Preferred delivery date (≥ order_date)
 
 # Approach
 Rank orders per customer by order_date using ROW_NUMBER().
